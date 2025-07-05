@@ -31,3 +31,14 @@ The <p> element defines a paragraph
 
 the <a> element for link the pages when we put the title tag in it toh jab hum hover krte hai toh uski kuch basic information dikhti hai link ke bina open hue
 the <img> element to use image in our website 
+
+ Types of Lists:
+Tag	Use
+<ul>	Unordered List (● bullets)
+<ol>	Ordered List (1, 2, 3...)
+<li>	List Item (har item ke liye)
+<dl>	Description List (terms + descriptions)
+<dt>	Description Term
+<dd>	Description Detail
+
+aur list me hum text paragraph image video audio link etc.... saare cheeze daal sakte hai 
