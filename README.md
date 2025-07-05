@@ -28,3 +28,6 @@ The <title> element specifies a title for the HTML page (which is shown in the b
 The <body> element defines the document's body, and is a container for all the visible contents, such as headings, paragraphs, images, hyperlinks, tables, lists, etc.
 The <h1> element defines a large heading
 The <p> element defines a paragraph
+
+the <a> element for link the pages when we put the title tag in it toh jab hum hover krte hai toh uski kuch basic information dikhti hai link ke bina open hue
+the <img> element to use image in our website 
