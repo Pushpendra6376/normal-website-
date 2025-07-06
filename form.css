@@ -1,0 +1,118 @@
+/* Neon background and animation */
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(135deg, #0f0c29, #302b63, #24243e);
+  background-size: 400% 400%;
+  animation: neonBackground 10s ease infinite;
+  padding: 30px;
+  color: #fff;
+}
+
+@keyframes neonBackground {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+h1 {
+  text-align: center;
+  color: #00ffff;
+}
+
+/* Form styling */
+form {
+  background: rgba(0, 0, 0, 0.7);
+  padding: 25px 30px; /* Equal left-right padding */
+  border-radius: 15px;
+  box-shadow: 0 0 15px rgba(0, 255, 255, 0.6);
+  max-width: 500px;
+  margin: auto;
+  color: #fff;
+}
+
+label {
+  display: block;
+  margin: 15px 0 5px;
+  font-weight: bold;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"],
+select {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 15px;
+}
+
+input[type="radio"],
+input[type="checkbox"] {
+  margin-right: 8px;
+}
+
+input[type="submit"] {
+  background-color: #00ffff;
+  color: #000;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 16px;
+  width: 100%;
+  margin-top: 15px;
+  font-weight: bold;
+  box-shadow: 0 0 10px #00ffff, 0 0 20px #00ffff;
+  transition: all 0.3s ease-in-out;
+}
+
+input[type="submit"]:hover {
+  background-color: #8a2be2;
+  color: #fff;
+  box-shadow: 0 0 15px #8a2be2, 0 0 25px #8a2be2;
+}
+
+/* Table styling */
+table {
+  margin: 30px auto;
+  border-collapse: collapse;
+  width: 90%;
+  background: rgba(255, 255, 255, 0.1);
+  color: #fff;
+  box-shadow: 0 0 10px rgba(0, 255, 255, 0.3);
+}
+
+th, td {
+  padding: 12px;
+  text-align: left;
+  border: 1px solid #ddd;
+}
+
+th {
+  background-color: rgba(255, 255, 255, 0.2);
+  color: #00ffff;
+}
+
+button {
+  padding: 6px 10px;
+  margin: 2px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  opacity: 0.85;
+}
+
+button:first-of-type {
+  background-color: #ffc107;
+  color: black;
+}
+
+button:last-of-type {
+  background-color: #dc3545;
+  color: white;
+}
