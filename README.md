@@ -56,3 +56,5 @@ Tag	Description
 <tfoot>	Table ke end (footer) section
 colspan	 - Cell ko multiple columns me extend karta hai
 rowspan	 - Cell ko multiple rows me extend karta hai
+
+<i> ye wala tag text ko italic me convert krne ke liye use hota hai 
