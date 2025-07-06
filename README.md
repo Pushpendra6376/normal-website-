@@ -44,4 +44,15 @@ Tag	Use
 aur list me hum text paragraph image video audio link etc.... saare cheeze daal sakte hai 
 
 today i learned about how to write the cv in HTML
-
+ next learned about talbes and its features 
+ able Elements with Description:
+Tag	Description
+<table>	Table banata hai
+<tr> (table row)	Ek row define karta hai
+<th> (table header)	Heading cell (bold + center by default)
+<td> (table data)	Normal cell
+<thead>	Table ke header section ko group karta hai
+<tbody>	Main data rows ka group
+<tfoot>	Table ke end (footer) section
+colspan	 - Cell ko multiple columns me extend karta hai
+rowspan	 - Cell ko multiple rows me extend karta hai
