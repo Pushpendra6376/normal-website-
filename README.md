@@ -58,3 +58,32 @@ colspan	 - Cell ko multiple columns me extend karta hai
 rowspan	 - Cell ko multiple rows me extend karta hai
 
 <i> ye wala tag text ko italic me convert krne ke liye use hota hai 
+next is form 
+
+Bhai 💡 forms HTML ka sabse important part hote hain jab tu user se input lena chahta hai — jaise:
+
+Login / Signup
+
+Contact Us
+
+Search Bar
+
+Payment Form
+
+Feedback / Survey
+
+🔍 Form Tags & Elements with Description
+Tag / Attribute	Purpose
+<form>	Form container hota hai
+action=""	Form data kahan bhejna hai (URL)
+method="get/post"	Kaise bhejna hai (GET = URL me, POST = secure body me)
+<input>	Text, email, password, etc. ke liye input
+<label>	Input ka label batata hai
+<textarea>	Multi-line input field
+<select> + <option>	Dropdown banata hai
+<button> or input type="submit"	Submit button
+name=""	Input ka name — server-side processing ke liye
+value=""	Input ka default value
+placeholder=""	Input me hint text
+required	Field must fill
+disabled, readonly	Control over editing
