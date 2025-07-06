@@ -42,3 +42,6 @@ Tag	Use
 <dd>	Description Detail
 
 aur list me hum text paragraph image video audio link etc.... saare cheeze daal sakte hai 
+
+today i learned about how to write the cv in HTML
+
