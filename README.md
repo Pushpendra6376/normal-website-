@@ -87,3 +87,5 @@ value=""	Input ka default value
 placeholder=""	Input me hint text
 required	Field must fill
 disabled, readonly	Control over editing
+
+humne iske aage js me forms ki information ko save krne ke liye functionality di jisse humne form ko submit krne ke baad data ko console me dekh sakte hai aur edit aur delete bhi kar sakte hai
