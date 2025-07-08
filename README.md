@@ -89,3 +89,16 @@ required	Field must fill
 disabled, readonly	Control over editing
 
 humne iske aage js me forms ki information ko save krne ke liye functionality di jisse humne form ko submit krne ke baad data ko console me dekh sakte hai aur edit aur delete bhi kar sakte hai
+
+
+Class and ID attributes 
+class ko multipule html elements share kr sakte hai
+class ka use hum styling ke liye aur js me bhi kr sakte jiske through elements ko manipulate kr sakte hai 
+class ko style krte hai jab toh dot lga ke class name aur parantheses me jo bhi style krna ho bo 
+
+id attribute ek uniqueness provide krta hai kisi bhi ek html element ko aur iska use hum do baar nhi kr sakte same name se 
+ID ko style krne ke liye hum hashtag aur id name use krte hai aur agge parentheses lga ki jo bhi style krna ho bo 
+
+Note: The id name is case sensitive!
+
+Note: The id name must contain at least one character, cannot start with a number, and must not contain whitespaces (spaces, tabs, etc.).
