@@ -102,3 +102,9 @@ ID ko style krne ke liye hum hashtag aur id name use krte hai aur agge parenthes
 Note: The id name is case sensitive!
 
 Note: The id name must contain at least one character, cannot start with a number, and must not contain whitespaces (spaces, tabs, etc.).
+
+div and span tags 
+div ek dontainer ki tarah use hota jiske ander hum aur bhi element daal sakte hai 
+div aagar hum use krte hai toh ye jaha use hota hai uske pehle aur baad me line breaks aapne aap aate hai 
+The <div> element has no required attributes, but style, class and id are common.
+div ka common use web page ki sections ko group krne liye use hota hai 
