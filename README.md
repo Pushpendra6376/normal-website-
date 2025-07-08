@@ -108,3 +108,8 @@ div ek dontainer ki tarah use hota jiske ander hum aur bhi element daal sakte ha
 div aagar hum use krte hai toh ye jaha use hota hai uske pehle aur baad me line breaks aapne aap aate hai 
 The <div> element has no required attributes, but style, class and id are common.
 div ka common use web page ki sections ko group krne liye use hota hai 
+
+
+The <span> tag is an inline container used to mark up a part of a text, or a part of a document.
+The <span> tag is easily styled by CSS or manipulated with JavaScript using the class or id attribute.
+The <span> tag is much like the <div> element, but <div> is a block-level element and <span> is an inline element.
